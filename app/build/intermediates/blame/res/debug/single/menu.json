@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\ishDEMON\\Documents\\android\\WonderCom-1.2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\ishDEMON\\Documents\\android\\WonderCom-1.2\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ishDEMON\\Documents\\android\\WiChat\\app\\build\\intermediates\\res\\merged\\debug\\menu\\chat.xml",
+        "source": "C:\\Users\\ishDEMON\\Documents\\android\\WiChat\\app\\src\\main\\res\\menu\\chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\ishDEMON\\Documents\\android\\WonderCom-1.2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\send_image.xml",
+        "source": "C:\\Users\\ishDEMON\\Documents\\android\\WonderCom-1.2\\app\\src\\main\\res\\menu\\send_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\ishDEMON\\Documents\\android\\WiChat\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\ishDEMON\\Documents\\android\\WiChat\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\WiChat\\app\\build\\intermediates\\res\\merged\\debug\\menu\\send_image.xml",
+        "source": "E:\\WiChat\\app\\src\\main\\res\\menu\\send_image.xml"
+    },
+    {
+        "merged": "E:\\WiChat\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\WiChat\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ishDEMON\\Documents\\android\\WiChat\\app\\build\\intermediates\\res\\merged\\debug\\menu\\send_image.xml",
+        "source": "C:\\Users\\ishDEMON\\Documents\\android\\WiChat\\app\\src\\main\\res\\menu\\send_image.xml"
+    },
+    {
+        "merged": "E:\\WiChat\\app\\build\\intermediates\\res\\merged\\debug\\menu\\chat.xml",
+        "source": "E:\\WiChat\\app\\src\\main\\res\\menu\\chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\ishDEMON\\Documents\\android\\WonderCom-1.2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\chat.xml",
+        "source": "C:\\Users\\ishDEMON\\Documents\\android\\WonderCom-1.2\\app\\src\\main\\res\\menu\\chat.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\ishDEMON\\Documents\\android\\WonderCom-1.2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w500dp-v13\\values-w500dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "C:\\Users\\ishDEMON\\.android\\build-cache\\bc0cdc7825bc904608ba7d920681efa406f05bc4\\output\\res\\values-w500dp\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 281,
+                        "endColumn": 54,
+                        "endOffset": 331
+                    }
+                }
+            }
+        ]
+    }
+]
